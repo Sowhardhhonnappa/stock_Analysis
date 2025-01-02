@@ -1,4 +1,4 @@
-AI Company Stock Analysis Dashboard
+AI Stock Analysis Dashboard
 
 This project builds an interactive stock analysis dashboard using Python, designed to visualize and analyze stock performance for major AI companies. It integrates technical indicators such as SMA, EMA, and RSI for informed decision-making.
 
