@@ -36,7 +36,7 @@ Feel free to fork, improve, and submit pull requests.
 
 
 License
-MIT License.
+MIT License
 
 
 
